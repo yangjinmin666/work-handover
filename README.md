@@ -9,7 +9,7 @@
 | 要做什么 | 查看哪里 |
 | --- | --- |
 | 查看 VidMuse 的 Seedream 5.5 宣传文案 | [宣传文案](docs/vidmuse-seedream-5-5.md) |
-| 查找飞书文档及用途 | [飞书文档索引](docs/documents.md) |
+| 查看只读文档与飞书访问方式 | [文档与访问权限](docs/documents.md) |
 | 了解项目、代码仓库与运行入口 | [项目与代码仓库](docs/projects.md) |
 | 接续未完成工作 | [待办与已知问题](docs/pending.md) |
 | 确认接收和权限 | [交接确认清单](docs/checklist.md) |
