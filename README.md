@@ -11,17 +11,15 @@
 | 查看 VidMuse 的 Seedream 5.5 宣传文案 | [宣传文案](docs/vidmuse-seedream-5-5.md) |
 | 阅读深度参考视频的对照结论和复核方法 | [深度参考视频对照测试](docs/depth-reference-video.md) |
 | 查找飞书总体交接入口和各类资料的去向 | [交接路由与访问权限](docs/documents.md) |
-| 了解项目、代码仓库与运行入口 | [项目与代码仓库](docs/projects.md) |
-| 接续未完成工作 | [待办与已知问题](docs/pending.md) |
-| 确认接收和权限 | [交接确认清单](docs/checklist.md) |
-| 补充一个交接事项 | [单项交接模板](templates/handover-item.md) |
 
-## 建议阅读顺序
+公司同事从飞书总交接文档查找内部原文、代码入口和实际待办，再用公司账号核对访问权限。需要飞书入口时可联系交接负责人。
 
-1. 从文档索引找到负责事项的背景资料。
-2. 在项目清单中确认代码入口、运行说明和接手人。
-3. 从待办清单确定下一步动作及验收方式。
-4. 完成访问和操作验证后，再更新交接确认状态。
+## 交接模板
+
+- [项目与代码仓库模板](docs/projects.md)
+- [待办与已知问题模板](docs/pending.md)
+- [交接确认模板](docs/checklist.md)
+- [单项交接模板](templates/handover-item.md)
 
 ## 资料维护约定
 
